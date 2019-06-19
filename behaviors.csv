@@ -1,0 +1,48 @@
+Acceleration,a
+Basking,b
+Breathing,c
+Catching,d
+Catching jellyfish,e
+Chewing on movement,f
+Chewing stationary,g
+Chewing jellyfish,h
+Escape,I
+Flipper beat,j
+Foraging,k
+Gliding ascent,l
+Gliding descent,m
+Grabbing on movement,n
+Grabbing stationary,o
+Grabbing the wall,p
+Hunting jellyfish,q
+Interaction,r
+Landing,s
+Obstacle,t
+Prospection,u
+Pursuit,v
+Resting,w
+Resting active,x
+Resting in flow,y
+Resting watching,z
+Sand,A
+Scratching,B
+Scratching head,C
+Scratching camera,D
+Shaking,E
+Head shaking,F
+Stay in surface,G
+Stepping back,H
+Swimming 1 ascent,I
+Swimming 1 descent,J
+Swimming 1 horizontally,K
+Swimming ascent,L
+Swimming descent,M
+Swimming horizontally,N
+Swimming fastly ascent,O
+Swimming fastly descent,P
+Swimming fastly horizontally,Q
+Swimming on place,R
+Swimming on the bottom,S
+Left U-turn,T
+Right U-turn,U
+Watching,V
