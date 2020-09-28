@@ -12,7 +12,7 @@ The application allows to:
 To launch the application, first of all, Python 3 needs to be installed on the machine. Also, besides, standard set of the libraries, it is necessary to install next ones: tkinter, cv2, PIL.
 Video and behaviors files are loaded by putting paths to them in the corresponding fields. The application was tested with 'avi' videos with 'H.264' codec. Although other formats and codecs might work, it is recommended to use these, as they are certainly supported by opencv, which may cause some troubles otherwise.
 
-##Portuguese
+## Portuguese
 
 O objetivo desse projeto é a criação de um aplicativo para a observação do comportamento de animais. O aplicativo foi desenvolvida em Python, utilizando a biblioteca Tkinter para GUI e opencv para tratamento de vídeo.
 
