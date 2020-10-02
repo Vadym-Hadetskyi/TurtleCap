@@ -25,3 +25,4 @@ O aplicativo permite:
 
 Para iniciar o aplicativo, em primeiro lugar, o Python 3 precisa estar instalado na máquina. Além disso, é necessário instalar as seguintes: tkinter, cv2, PIL.
 Os arquivos de vídeo e de comportamentos são carregados nos campos correspondentes. O aplicativo foi testado com vídeos 'avi' com o codec 'H.264'. Embora outros formatos e codecs possam funcionar, é recomendado usá-los. Pois eles certamente são suportados pelo opencv, o que pode causar alguns problemas de outra forma.
+
